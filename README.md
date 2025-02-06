@@ -1,0 +1,1 @@
+steam监测，检查你的policy状态，如果是resigned不要慌，几秒给你改成unrestricted
